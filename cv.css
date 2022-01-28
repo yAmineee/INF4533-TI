@@ -1,0 +1,131 @@
+body {
+	background-image: url("../Images/23 - ROG Wallpaper Challenge - 4K.jpg") ;	
+	background-size: 100%;
+	background-attachment: fixed;
+	margin: 0px;
+	padding-top: 0px;
+	font-family: consolas;
+
+}
+
+header{
+	background-color:rgba(0, 0, 0, 0.2999) ;
+	height: 125px;
+	border-bottom: solid white 3px ;
+}
+
+#CV {
+	text-overflow: inherit;
+	padding-top: 30px;
+	color: white ;
+	text-align: center;
+	text-decoration: underline;
+	font-family: consolas ;
+	font-weight: 100;
+	font-size: 45px;
+}
+
+
+.division{
+	font-family: consolas;
+	font-weight: 50;
+	color: white;
+	margin-right: 50px;
+	margin-left: 50px;
+	background-color: rgba(0, 0, 0, 0.3);
+	padding: 5px;
+	padding-left: 10px;
+}
+.division:hover{
+	border-left: solid white 3px;
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+#profile{
+	width: 250 px;
+}
+
+h3{
+
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+
+.Navlinks{
+	color: white;
+	font-weight: 0.5px;
+	position: inherit;
+	margin: 1cm;
+	margin-bottom: 50px;
+	text-decoration: none;
+
+	background-color: rgba(255, 255, 255, 0.2);
+	padding: 5px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	text-align: center;
+	display: inline-block;
+
+
+}
+.Navlinks:hover{
+	background-color: rgba(0, 0, 0, 0.3);
+	border-bottom: solid rgba(255, 255, 255, 1.0);
+}
+
+#cv{
+	display: block;
+	padding-top: 15px;
+	font-size: 1.6pc;
+
+	
+}
+
+
+
+#Bienvenue{
+	margin-left: 10cm;
+	font-weight: 100px;
+	text-transform: uppercase;
+}
+
+
+#DivBienv{
+	background-color: rgba(0, 0, 0, 0.6);
+	font-family: "consolas";
+	font-weight: 50;
+	color: white;
+	margin-right: 50px;
+	margin-left: 50px;
+	
+	padding: 5px;
+	padding-left: 10px;
+	border-left: solid whitesmoke 3px;
+	border-right: solid white 3px;
+}
+
+b{
+	font-size: 1.25pc;
+}
+#skls{
+	padd
+}
+
+footer{
+	background-color: rgba(0, 0, 0, 0.7);
+	border-top: solid floralwhite 3px;
+	padding-top: 20px;
+}
+.liens{
+	text-decoration: none;
+	color: #ff5170 ;
+}
+.liens:hover{
+	text-decoration: underline;
+	color: #d4092f ;
+}
+
+
+				/**------------------ Yamine IBRAHIMA ------------------**/
+#ff5170
